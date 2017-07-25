@@ -1,0 +1,13 @@
+Sample commands:
+  git add
+  git commit -m "Comment"
+  git push orgin master
+
+  git status
+  git diff
+
+
+Files:
+  .gitignore # files named will not be tracked
+
+  
