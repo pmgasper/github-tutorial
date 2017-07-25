@@ -6,6 +6,13 @@ Sample commands:
   git status
   git diff
 
+  git checkout -b add_excitement
+  git checkout master
+  git merge add_excitement
+
+  git branch -d add_excitement
+  git push origin --delete add_excitement
+
 
 Files:
   .gitignore # files named will not be tracked
